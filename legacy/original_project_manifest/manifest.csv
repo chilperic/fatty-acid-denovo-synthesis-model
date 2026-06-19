@@ -1,0 +1,80 @@
+relative_path,size_bytes,status
+models/CoA-inhibition/FADNS_1.odg,19929,excluded_non_code_or_large_output
+models/CoA-inhibition/FADNS_1.svg,92489,included
+models/CoA-inhibition/individual_fit_best31.pdf,24669,excluded_non_code_or_large_output
+models/CoA-inhibition/main_topolska.ipynb,3720817,included
+models/CoA-inhibition/main_weiss.ipynb,6035959,included
+models/CoA-inhibition/model.py,21003,included
+models/CoA-inhibition/parameters_scan.json,1622,included
+models/CoA-inhibition/read_and_convert_topolska_data.py,2341,included
+models/CoA-inhibition/read_and_convert_weiss_data.py,3098,included
+models/CoA-inhibition_only_14_16_18_can_be_produced/FADNS_1.odg,28057,excluded_non_code_or_large_output
+models/CoA-inhibition_only_14_16_18_can_be_produced/FADNS_1.svg,81515,included
+models/CoA-inhibition_only_14_16_18_can_be_produced/Untitled-1.ipynb,136695,included
+models/CoA-inhibition_only_14_16_18_can_be_produced/individual_fit_best31.pdf,25326,excluded_non_code_or_large_output
+models/CoA-inhibition_only_14_16_18_can_be_produced/model.py,20800,included
+models/CoA-inhibition_only_14_16_18_can_be_produced/parameters_scan.json,45422,included
+models/CoA-inhibition_only_14_16_18_can_be_produced/read_and_convert_topolska_data.py,2341,included
+models/CoA-inhibition_only_14_16_18_can_be_produced/read_and_convert_weiss_data.py,3098,included
+models/CoA-inhibition_only_14_16_18_can_be_produced/topolska_model (copy).ipynb,8610017,included
+models/CoA-inhibition_only_14_16_18_can_be_produced/topolska_model.ipynb,17175963,included
+models/CoA-inhibition_only_14_16_18_can_be_produced/weiss_model.ipynb,5858337,included
+models/Evaluation/evaluation (backup).ipynb,1312337,included
+models/Evaluation/evaluation.ipynb,2346023,included
+models/Evaluation/evaluation_cox.ipynb,2346023,included
+models/Evaluation/evaluation_old_style.ipynb,180884,included
+models/Evaluation/model.py,20800,included
+models/Example_sobol_vs_random/Comparison_sobol_and_random.ipynb,265772,included
+models/Model_with_CoA-inhibition_rate_of release_from _distribution/FADNS_1.odg,19929,excluded_non_code_or_large_output
+models/Model_with_CoA-inhibition_rate_of release_from _distribution/FADNS_1.svg,92489,included
+models/Model_with_CoA-inhibition_rate_of release_from _distribution/individual_fit_best31.pdf,24669,excluded_non_code_or_large_output
+models/Model_with_CoA-inhibition_rate_of release_from _distribution/main_topolska.ipynb,10312150,included
+models/Model_with_CoA-inhibition_rate_of release_from _distribution/main_weiss.ipynb,6035959,included
+models/Model_with_CoA-inhibition_rate_of release_from _distribution/model.py,20931,included
+models/Model_with_CoA-inhibition_rate_of release_from _distribution/parameters_scan.json,1622,included
+models/Model_with_CoA-inhibition_rate_of release_from _distribution/read_and_convert_topolska_data.py,2341,included
+models/Model_with_CoA-inhibition_rate_of release_from _distribution/read_and_convert_weiss_data.py,3098,included
+models/basic-model/FADNS_simple.odg,16542,excluded_non_code_or_large_output
+models/basic-model/FADNS_simple.svg,72063,included
+models/basic-model/basic_topolska_main.ipynb,8868647,included
+models/basic-model/basic_weiss_main.ipynb,2190190,included
+models/basic-model/model.py,14462,included
+models/basic-model/read_and_convert_topolska_data.py,2341,included
+models/basic-model/read_and_convert_weiss_data.py,3098,included
+models/basic-model_only_14_16_18/FADNS_simple.odg,16542,excluded_non_code_or_large_output
+models/basic-model_only_14_16_18/FADNS_simple.svg,72063,included
+models/basic-model_only_14_16_18/basic_topolska_main.ipynb,8888219,included
+models/basic-model_only_14_16_18/basic_topolska_main1.ipynb,17327461,included
+models/basic-model_only_14_16_18/basic_weiss_main.ipynb,2189848,included
+models/basic-model_only_14_16_18/model.py,20752,included
+models/basic-model_only_14_16_18/read_and_convert_topolska_data.py,2341,included
+models/basic-model_only_14_16_18/read_and_convert_weiss_data.py,3098,included
+models/malonyl-coa-and-acetyl-coa-competition/main.ipynb,6861153,included
+models/malonyl-coa-and-acetyl-coa-competition/main_topolska.ipynb,6773925,included
+models/malonyl-coa-and-acetyl-coa-competition/model.py,21002,included
+models/malonyl-coa-and-acetyl-coa-competition/read_and_convert_topolska_data.py,2341,included
+models/malonyl-coa-and-acetyl-coa-competition/read_and_convert_weiss_data.py,3098,included
+models/malonyl-coa-and-acetyl-coa-competition/scheme.svg,123282,included
+models/malonyl-coa-competition/main.ipynb,6238448,included
+models/malonyl-coa-competition/model.py,17313,included
+models/malonyl-coa-competition/read_and_convert_topolska_data.py,2341,included
+models/malonyl-coa-competition/read_and_convert_weiss_data.py,3098,included
+models/malonyl-coa-competition/scheme.svg,123282,included
+models/open_system_CoA-inhibition_only_14_16_18_can_be_produced/FADNS_1.odg,28057,excluded_non_code_or_large_output
+models/open_system_CoA-inhibition_only_14_16_18_can_be_produced/FADNS_1.svg,81515,included
+models/open_system_CoA-inhibition_only_14_16_18_can_be_produced/individual_fit_best31.pdf,25326,excluded_non_code_or_large_output
+models/open_system_CoA-inhibition_only_14_16_18_can_be_produced/model.py,20800,included
+models/open_system_CoA-inhibition_only_14_16_18_can_be_produced/parameters_scan.json,45422,included
+models/open_system_CoA-inhibition_only_14_16_18_can_be_produced/read_and_convert_topolska_data.py,2341,included
+models/open_system_CoA-inhibition_only_14_16_18_can_be_produced/read_and_convert_weiss_data.py,3098,included
+models/open_system_CoA-inhibition_only_14_16_18_can_be_produced/topolska_model (copy).ipynb,8610017,included
+models/open_system_CoA-inhibition_only_14_16_18_can_be_produced/topolska_model.ipynb,23411221,included
+models/open_system_CoA-inhibition_only_14_16_18_can_be_produced/weiss_model.ipynb,5858462,included
+models/sinking-enzyme/FADNS_sinking.svg,78767,included
+models/sinking-enzyme/FADNS_sinking_enzyme.odg,17728,excluded_non_code_or_large_output
+models/sinking-enzyme/model.py,14521,included
+models/sinking-enzyme/read_and_convert_topolska_data.py,2341,included
+models/sinking-enzyme/read_and_convert_weiss_data.py,3098,included
+models/sinking-enzyme/sink_topolska_main.ipynb,2442559,included
+models/sinking-enzyme/sink_weiss_main.ipynb,2281963,included
+models/CoA-inhibition_only_14_16_18_can_be_produced/sobol_sampling_example/Untitled-1.ipynb,1105344,included
