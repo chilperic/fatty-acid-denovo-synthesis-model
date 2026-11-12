@@ -35,3 +35,6 @@ __pycache__/
 # Native compilation products
 *.o
 *.so
+
+# Reproducible runs are exported deliberately to releases, not committed by default.
+/runs/

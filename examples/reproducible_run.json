@@ -1,0 +1,51 @@
+{
+  "purpose": "Synthetic conservation demonstration; not a fitted experimental parameter set",
+  "variant": "basic_model",
+  "units": "arbitrary internally consistent units",
+  "initial_state": [
+    2,
+    10,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.1,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    20
+  ],
+  "parameters": {
+    "beta": 0.1,
+    "kappa": 0.1,
+    "delta": 0.1,
+    "kd1": 0.1,
+    "kd2": 0.1,
+    "kd3": 0.1,
+    "kd4": 0.1,
+    "kd5": 0.1,
+    "kd6": 0.1,
+    "kd7": 0.1,
+    "kd8": 0.1
+  },
+  "solver": {
+    "t_span": [
+      0,
+      10
+    ],
+    "n_points": 101,
+    "method": "LSODA",
+    "rtol": 1e-08,
+    "atol": 1e-10
+  }
+}
