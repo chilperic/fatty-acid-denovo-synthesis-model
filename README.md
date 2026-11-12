@@ -108,3 +108,11 @@ This repository corresponds to the semi-mechanistic modelling part of the PhD th
 ## License and provenance
 
 MIT license. Check original data-source and paper-source permissions before redistributing beyond this repository.
+
+## Maintaining this repository
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) for the directory map, output conventions, provenance and cleanup boundaries.
+
+## Reproducible 0.2 workflow
+
+See [reproduction instructions](docs/REPRODUCING.md), [scientific migration notes](docs/MIGRATION-0.2.md), and the [FAIR implementation record](docs/FAIR.md). Numerical reliability checks do not substitute for empirical validation.

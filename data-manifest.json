@@ -1,0 +1,69 @@
+{
+  "schema_version": "1.0",
+  "source_commit": "502bd69a853cb42e52a3fc17ab5d9fe31a5640b2",
+  "files": [
+    {
+      "path": "data/C14_data.csv",
+      "sha256": "fed000ffdda10dbb81fbb07b779750fcb1c093113137bf2058350645f92f730c",
+      "bytes": 147,
+      "provenance_status": "inherited from repository; original source and rights require verification",
+      "license_status": "do not infer data redistribution rights from the software license",
+      "first_row": [
+        "0",
+        "-0.000993379102211"
+      ],
+      "rows_in_file": 7
+    },
+    {
+      "path": "data/c16_data.csv",
+      "sha256": "41cebe425ba2ca5896f12ce96ef7cc9c943398106da6d4feacb80fc6aa40ae66",
+      "bytes": 126,
+      "provenance_status": "inherited from repository; original source and rights require verification",
+      "license_status": "do not infer data redistribution rights from the software license",
+      "first_row": [
+        "0",
+        "0"
+      ],
+      "rows_in_file": 7
+    },
+    {
+      "path": "data/c18_data.csv",
+      "sha256": "31365ef89a9b937756bce932cd9da5541b95722facd5f0f744afb8f2264eb1c0",
+      "bytes": 129,
+      "provenance_status": "inherited from repository; original source and rights require verification",
+      "license_status": "do not infer data redistribution rights from the software license",
+      "first_row": [
+        "0",
+        "0"
+      ],
+      "rows_in_file": 7
+    },
+    {
+      "path": "data/merge_data.csv",
+      "sha256": "b9d609070099f242b3cbca64222e9d219bf5cb8e031640507da607e5a884bfc0",
+      "bytes": 155,
+      "provenance_status": "inherited from repository; original source and rights require verification",
+      "license_status": "do not infer data redistribution rights from the software license",
+      "first_row": [
+        "time(s)",
+        "C14",
+        "C16",
+        "C18"
+      ],
+      "rows_in_file": 8
+    },
+    {
+      "path": "data/total_fatty_acids.csv",
+      "sha256": "95c3481f2c0af74825299773737298cfd2caf1a6376acbea82619b1702b5ec5b",
+      "bytes": 419,
+      "provenance_status": "inherited from repository; original source and rights require verification",
+      "license_status": "do not infer data redistribution rights from the software license",
+      "first_row": [
+        "time(s)",
+        "total_fatty_acids"
+      ],
+      "rows_in_file": 32
+    }
+  ],
+  "note": "Checksums preserve input identity, not scientific correctness. Original data remain unchanged."
+}
