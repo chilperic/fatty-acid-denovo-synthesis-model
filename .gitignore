@@ -1,23 +1,37 @@
-__pycache__/
-*.pyc
-.pytest_cache/
-.venv/
-.ipynb_checkpoints/
-*.png
-*.pdf
-*.eps
-*.o
-*.so
+# Operating-system and editor-generated files
 .DS_Store
+Thumbs.db
+._*
+*~
+*.swp
+*.swo
+
+# Local credentials; sanitized examples remain versioned
+.env
+.env.*
+!.env.example
+!.env.*.example
+
+# Python environments, caches and packaging outputs
 .venv/
+venv/
 __pycache__/
-*.pyc
+*.py[cod]
 .pytest_cache/
 .ruff_cache/
-.DS_Store
+.mypy_cache/
+.ipynb_checkpoints/
 *.egg-info/
-build/
-dist/
-*.egg-info/
-build/
-dist/
+/build/
+/dist/
+.coverage
+.coverage.*
+/htmlcov/
+
+# Disposable runs belong here; curated data, figures and reports stay tracked
+/outputs/
+/tmp/
+
+# Native compilation products
+*.o
+*.so

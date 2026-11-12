@@ -108,3 +108,7 @@ This repository corresponds to the semi-mechanistic modelling part of the PhD th
 ## License and provenance
 
 MIT license. Check original data-source and paper-source permissions before redistributing beyond this repository.
+
+## Maintaining this repository
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) for the directory map, output conventions, provenance and cleanup boundaries.
